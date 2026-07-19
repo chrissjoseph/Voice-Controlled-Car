@@ -19,6 +19,14 @@ Voice-Controlled Car Using Arduino Uno is an embedded systems project that enabl
 ## Circuit Diagram
 ![Circuit Diagram](Images/Circuit_Diagram/circuit_diagram.jpeg)
 ## Working
+1. The smartphone converts voice into text commands.
+2. Commands are transmitted through Bluetooth.
+3. HC-05 receives the commands.
+4. Arduino Uno processes the commands.
+5. L293D Motor Driver controls the motors.
+6. The robotic car moves according to the received command.
+Working demo
+![Videos](Videos/working_demo.mp4)
 
 ## Installation
 
