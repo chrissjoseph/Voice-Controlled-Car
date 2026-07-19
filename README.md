@@ -17,7 +17,7 @@ Voice-Controlled Car Using Arduino Uno is an embedded systems project that enabl
 - Battery Pack
 
 ## Circuit Diagram
-
+![Circuit Diagram](Images/Circuit_Diagram/circuit_diagram.jpeg)
 ## Working
 
 ## Installation
