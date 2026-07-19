@@ -83,8 +83,6 @@ Working demo
 - Demonstrates embedded systems and motor control.
 - Easily expandable with additional features.
 
-
-
 ##  Limitations
 
 - Bluetooth range is limited (~10 m).
@@ -92,8 +90,6 @@ Working demo
 - No obstacle detection in the basic version.
 - Battery life limits operating time.
 - Requires smartphone Bluetooth pairing.
-
----
 
 ##  Future Enhancements
 
