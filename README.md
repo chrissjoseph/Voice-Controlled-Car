@@ -21,7 +21,7 @@ Voice-Controlled Car Using Arduino Uno is an embedded systems project that enabl
 ## Working
 
 Working demo
-![Videos](Videos/working_demo.mp4)
+![Watch Demo Video](Videos/working_demo.mp4)
 
 ## Installation
 
