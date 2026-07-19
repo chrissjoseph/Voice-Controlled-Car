@@ -70,9 +70,39 @@ Robot Car Movement
 Working demo
 ![Watch Demo Video](Videos/working_demo.mp4)
 
-## Project Images
+## Prototype
 ![Prototype](Images/prototype1.jpeg)
 ![Prototype](Images/prototype2.jpeg)
+
+##  Advantages
+
+- Hands-free voice control.
+- Wireless Bluetooth communication.
+- Low-cost and easy to build.
+- Beginner-friendly robotics project.
+- Demonstrates embedded systems and motor control.
+- Easily expandable with additional features.
+
+
+
+##  Limitations
+
+- Bluetooth range is limited (~10 m).
+- Voice recognition may be affected by noise.
+- No obstacle detection in the basic version.
+- Battery life limits operating time.
+- Requires smartphone Bluetooth pairing.
+
+---
+
+##  Future Enhancements
+
+- Add ultrasonic sensors for obstacle avoidance.
+- Integrate ESP32 for Wi-Fi/IoT control.
+- Develop a dedicated mobile application.
+- Add GPS for navigation and tracking.
+- Implement camera-based live streaming.
+- Enable autonomous navigation using AI and sensors.
 
 ## License
 MIT
